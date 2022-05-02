@@ -1,7 +1,7 @@
 # SwapLanes
 Switch selected notes' lanes around (in the Quaver map editor)
 
-You can make a map with permanently and specifically randomized lanes with this plugin. To do so, go to an existing map, File > Create New Difficulty > Copy Current Map, and use this plugin on the copy of the map.
+You can make a map with permanently and specifically randomized lanes with this plugin. To do so, go to an existing map, File > Create New Difficulty > Copy Current Map, and use this plugin on that new copy of the map.
 
 ## Installation
 1. Download the ZIP file by pressing the green download code button on GitHub and clicking "Download ZIP"
